@@ -1,5 +1,4 @@
 ### How Does DepthAI Provide Spatial AI Results?  
---------------------------------------------
 There are two ways to use DepthAI to get Spatial AI results: 
 1. Monocular Neural Inference fused with Stereo Depth.  
         In this mode the neural network is run on a single camera and fused with disparity depth results. The left, right, or RGB camera can be used to run the neural inference.
