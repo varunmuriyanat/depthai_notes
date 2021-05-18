@@ -1,4 +1,4 @@
-How Does DepthAI Provide Spatial AI Results?  
+### How Does DepthAI Provide Spatial AI Results?  
 --------------------------------------------
 There are two ways to use DepthAI to get Spatial AI results: 
 1. Monocular Neural Inference fused with Stereo Depth.  
