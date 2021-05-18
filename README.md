@@ -9,7 +9,7 @@ There are two ways to use DepthAI to get Spatial AI results:
 
 In both of these cases, standard neural networks can be used. There is no need for the neural networks to be trained with 3D data.
 
-DepthAI automatically provides the 3D results in both cases using standard 2D-trained networks, as detailed [here](https://docs.luxonis.com/en/latest/pages/faq/#nodepthrequired). These modes have differing minimum depth-perception limits, detailed here [https://docs.luxonis.com/en/latest/pages/faq/#nodepthrequired].
+DepthAI automatically provides the 3D results in both cases using standard 2D-trained networks, as detailed [here](https://docs.luxonis.com/en/latest/pages/faq/#nodepthrequired). These modes have differing minimum depth-perception limits, detailed [here](https://docs.luxonis.com/en/latest/pages/faq/#nodepthrequired).
 
 
 Monocular Neural Inference fused with Stereo Depth 
